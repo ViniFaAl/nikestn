@@ -1,0 +1,104 @@
+body {
+    background-color: #d8d8d8;
+    width: 800px;
+    margin: 25px auto;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.topo-menu {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid;   
+}
+
+.menu img {
+    width: 200px;
+    padding-bottom: 15px;
+}
+
+.menu a {
+    text-decoration: none;
+    border: 2px solid #f9f6ec;
+    border-radius: 30px;
+    margin: auto 0px;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #f9f6ec;
+    color: #32c2b9;
+    font-weight: bold;
+}
+
+h3 {
+    margin-left: 65px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.tenis-air {
+    display: flex;
+    padding-bottom: 25px;
+    border-bottom: 1px solid black;
+    
+}
+
+.tenis-jordan {
+    display: flex;
+    padding-bottom: 25px;
+    border-bottom: 1px solid black;
+}
+
+.tenis-nikesb {
+    display: flex;
+    padding-bottom: 25px;
+    border-bottom: 1px solid black;
+}
+
+.sapato img {
+    width: 110px;
+    border-radius: 30px;
+    margin-bottom: 3px;
+}
+
+.tenisairjordan {
+    margin-top: 10px;
+}
+
+.paragrafo-air {
+    font-size: 17px;
+    line-height: 20px;
+}
+
+.paragrafo-jordan {
+    padding-right: 13px ;
+    font-size: 15px;
+    line-height: 16px;
+}
+
+.paragrafo-skate {
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.link-air {
+    display: flex;
+    justify-content: center;
+}
+
+.link-air a {
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border-radius: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
+
+
